@@ -4,7 +4,7 @@ Transfer Learning ANIME
 
 Goal of This Project use transfer learning to animify photo
 
-![Image 1](/home/mad/Desktop/project/AI-nime/img/1.png)
+![Image 1](img/1.png)
 
 # ROADMAP
 
